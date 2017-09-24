@@ -1,0 +1,23 @@
+{
+    "name": "nativescript-diagnostics",
+    "version": "1.0.0",
+    "description": "A Nativescript Port of Cordova-diagnostics",
+    "main": "diagnostics",
+    "typings": "index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Nativescript",
+        "Permissions",
+        "Diagnostics"
+    ],
+    "author": "Brendan Ingham",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.4"
+    },
+    "devDependencies": {
+        "tns-core-modules": "^3.2.0"
+    }
+}
